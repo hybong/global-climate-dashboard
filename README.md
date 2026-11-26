@@ -2,6 +2,12 @@
 
 An interactive Streamlit dashboard for exploring CO₂ emissions, climate projections, and population exposure in low-elevation coastal areas. Use the map and timeline to compare countries, explore trends across ASEAN, and switch between future emissions scenarios.
 
+## Dashboard preview
+
+![Dashboard showing global climate indicators, timeline controls, and a world map of 2022 CO₂ emissions](docs/dashboard-preview.png)
+
+*Global overview showing 2022 CO₂ emissions by country.*
+
 ## Run locally
 
 From the repository root, set up the environment with Python 3.12.
